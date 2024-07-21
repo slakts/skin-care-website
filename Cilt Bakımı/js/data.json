@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Yoğun Leke Karşıtı Cilt Tonu Eşitleyici Aydınlatıcı Serum",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 108.00
+        },
+        "discount": 17,
+        "img": {
+            "singleImage": "img/products/1.png"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Kusursuz Makyaj Temizleme Suyu",
+        "price": {
+            "oldPrice": 200.00,
+            "newPrice": 100.00
+        },
+        "discount": 33,
+        "img": {
+            "singleImage": "img/products/2.png"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Akneye Eğilim Gösteren Ciltler Için Cilt Bakım Kremi",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 108.00
+        },
+        "discount": 17,
+        "img": {
+            "singleImage": "img/products/3.png"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Sivilce Karşıtı Gece Bakım Kremi",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 108.00
+        },
+        "discount": 17,
+        "img": {
+            "singleImage": "img/products/4.png"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Sivilce Karşıtı Serum",
+        "price": {
+            "oldPrice": 165.00,
+            "newPrice": 108.00
+        },
+        "discount": 17,
+        "img": {
+            "singleImage": "img/products/5.png"
+        }
+    }
+]
